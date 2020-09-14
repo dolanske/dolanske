@@ -1,16 +1,22 @@
-### Hi there 👋
+### hello_world();
 
-<!--
-**dolanske/dolanske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jan Dolanský (22/_98) and I am a web developer, designer and iced coffee enthusiast.
+I come from the heart of the EU, Czech. And I keep bouncing back and forth between Finland.
 
-Here are some ideas to get you started:
+I have started web development from scratch at the start of 2018 and since then I've never 
+stopped learning since! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of the tools I have worked and I am familiar with
+
+- less/scss
+- html5
+- javascript & Vue.js (basic understanding of React.js)
+- php
+- Adobe Xd, Photoshop
+- Iced coffee making (!!)
+
+## Also most importantly
+
+.hat {
+  color: yellow;
+}
