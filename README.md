@@ -3,8 +3,8 @@
 My name is Jan Dolanský (22/_98) and I am a web developer, designer and iced coffee enthusiast.
 I come from the heart of the EU, Czech, but more often than not you'll find me enjoying the northern breeze of Finland.
 
-I have started web development from scratch at the start of 2018 and since then I've never 
-stopped learning since! 
+I've started learning web development from scratch at the start of 2018 and since then I've never 
+stopped working on myself and my skills.
 
 Some of the tools I have worked and I am familiar with
 
