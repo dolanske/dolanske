@@ -14,9 +14,3 @@ Some of the tools I have worked and I am familiar with
 - php
 - Adobe Xd, Photoshop
 - Iced coffee making (!!)
-
-## Also most importantly
-
-.hat {
-  color: yellow;
-}
