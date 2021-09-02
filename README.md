@@ -8,7 +8,7 @@ stopped working on myself and my skills. It's a big passion of mine and I never 
 
 My areas of expertise include
 - Javascript
-- CSS/LESS/SASS (container queries when)
+- CSS/Less/Sass
 - Vue.js (ver. 2 & 3, vuex, vuelidate)
 - HTML5
 - Web design (mainly SaaS)
