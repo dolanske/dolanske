@@ -1,4 +1,4 @@
-### h('div', {class: 'hat-yellow"}, 'Hello World');
+### h('div', { class: 'hat' }, 'Hello World');
 
 My name is Jan Dolanský (23/_98) and I am a web developer, designer and iced coffee enthusiast.
 I come from the heart of the EU, Czech, but more often than not you'll find me enjoying the northern breeze of Finland.
