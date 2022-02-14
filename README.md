@@ -8,7 +8,7 @@ stopped working on my skills and staying up to date with the state of the web. I
 
 My areas of expertise include:
 
-- HTML5, Javascript/Typescript, CSS/SCSS/lESS
+- Javascript / Typescript, HTML5, SCSS / LESS / CSS
 - Vue.js 2 & 3 (vuex, pinia, vuelidate)
 - React.js (basics)
-- large Saas platform front-end management, design & development
+- Saas platform front-end management, design & development
