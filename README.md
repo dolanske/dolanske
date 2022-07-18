@@ -12,3 +12,7 @@ My areas of expertise include:
 - Vue.js 2 & 3 (vuex, pinia, vuelidate)
 - React.js (basics)
 - Saas platform front-end management, design & development
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dolanske&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true&langs_count=10&hide=Jupyter%20Notebook,Batchfile,C,C%23" alt="dolanske" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dolanske&show_icons=true&locale=en&theme=github_dark&hide_border=true alt="dolanske" /></p>
