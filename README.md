@@ -1,11 +1,13 @@
 ```bash
  
-  ### hello person
+  ### hello <person>
    
-  > Jan Dolanský | 25 | Leo
+  > Jan Dolanský | 26 | Leo
   > enthusiastic web designer & developer
   
-  > .js | .ts | .vue | .scss | .html
+  > .ts | .vue | .scss
+
+  ###
 
 
 ```
