@@ -2,13 +2,9 @@
  
   ### hello <person>
    
-  > Jan Dolanský | 27 | Leo
-  > very enthusiastic web designer | developer | library author
-  
-  > .ts(x) | .vue | .scss
-
-  ###
+  > Jan Dolanský | 28 | Leo
+  > enthusiastic web / game designer & developer  
+  > .vue | .css | .ts(x)
 
 
 ```
-
